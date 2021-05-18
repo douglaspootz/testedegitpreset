@@ -3,7 +3,7 @@ name: Reportar BUG
 about: Formulário para bugs
 title: "[BUG]"
 labels: BUG/ERRO
-assignees: AndreLuizAR
+assignees: ''
 
 ---
 
