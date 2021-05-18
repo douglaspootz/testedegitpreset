@@ -2,7 +2,7 @@
 name: Nova Funcionalidade
 about: Formulário para novos campos, alertas, informações....
 title: ''
-labels: documentation
+labels: NOVO
 assignees: ''
 
 ---

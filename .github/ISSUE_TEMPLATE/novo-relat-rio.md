@@ -2,7 +2,7 @@
 name: Novo Relatório
 about: 'Formulário para criar um novo relatório '
 title: "[RELATÓRIO]"
-labels: documentation
+labels: NOVO
 assignees: ''
 
 ---
